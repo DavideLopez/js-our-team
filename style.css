@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #333;
+    color: white;
+}
+
 .container{
     width: 900px;
     margin: auto;
@@ -18,4 +23,8 @@
 
 .card {
     width: calc( 100% / 3);
+}
+
+p {
+    margin-top: 70px;
 }
