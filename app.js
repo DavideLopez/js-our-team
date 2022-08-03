@@ -48,3 +48,13 @@ for ( let i = 0; i < team.length; i++) {
     showTeamMembers(team[i])
 
 }
+
+// stampiamo il tutto nell'html
+
+// function showTeamMembers(teamMembers) {
+    
+
+
+
+
+// }

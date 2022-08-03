@@ -6,6 +6,9 @@
 
 body {
     background-color: #333;
+}
+
+h1, p {
     color: white;
 }
 
@@ -19,6 +22,10 @@ body {
 .team {
     display: flex;
     flex-wrap: wrap;
+}
+
+img {
+    width: 100%;
 }
 
 .card {
