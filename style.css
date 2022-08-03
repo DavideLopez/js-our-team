@@ -8,12 +8,17 @@ body {
     background-color: #333;
 }
 
-h1, p {
+h1, h2, p {
     color: white;
 }
 
+h2 {
+    
+    font-size: 1rem;
+}
+
 .container{
-    width: 900px;
+    width: 1200px;
     margin: auto;
     text-align: center;
     padding: 50px;
@@ -26,6 +31,8 @@ h1, p {
 
 img {
     width: 100%;
+    padding: 20px; 
+
 }
 
 .card {
